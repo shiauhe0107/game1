@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-desktop",groupList:["default","enemy","dina"],collisionMatrix:[[false,false],[false,true,true],[false,true,false]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/1.fire",orientation:"",jsList:[],bundleVers:{internal:"279e0",main:"a0ef8"}};
